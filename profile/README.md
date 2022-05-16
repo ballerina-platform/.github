@@ -28,6 +28,20 @@ Here you can find resources to get started with Ballerina.
 
 As an open-source project, Ballerina welcomes contributions from the community. To start contributing, read these [contribution guidelines](https://github.com/ballerina-platform/ballerina-lang/blob/master/CONTRIBUTING.md) for information on how you should go about contributing to our project.
 
+
+## Reporting issues and security flaws
+
+Report an issue in the relevant repo out of the GitHub repos listed below. 
+
+>**Tip:** If you are unsure whether you have found a bug, search the existing issues in the corresponding repo on 
+> GitHub and raise it in the [Ballerina Slack channel](https://ballerina-platform.slack.com/).
+  - Compiler, runtime, or tooling: <a href="https://github.com/ballerina-platform/ballerina-lang/issues">ballerina-lang</a> repo
+  - Standard library: <a href="https://github.com/ballerina-platform/ballerina-standard-library/issues">ballerina-standard-library</a> repo
+  - Language specification: <a href="https://github.com/ballerina-platform/ballerina-spec/issues">ballerina-spec</a> repo
+  - Website: <a href="https://github.com/ballerina-platform/ballerina-dev-website/issues">ballerina-dev-website</a> repo
+  - Extended library: <a href="https://github.com/ballerina-platform/ballerina-extended-library/issues">ballerina-extended-library</a> repo
+  - Security flaw: send an email to security@ballerina.io. For details, see the <a href="https://ballerina.io/security/">security policy</a>.
+
 ## License
 
 Ballerina code is distributed under [Apache license 2.0](https://github.com/ballerina-platform/ballerina-lang/blob/master/LICENSE).
