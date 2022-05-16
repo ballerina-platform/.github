@@ -29,7 +29,7 @@ Here you can find resources to get started with Ballerina.
 As an open-source project, Ballerina welcomes contributions from the community. To start contributing, read these [contribution guidelines](https://github.com/ballerina-platform/ballerina-lang/blob/master/CONTRIBUTING.md) for information on how you should go about contributing to our project.
 
 
-## Reporting issues and security flaws
+## Report issues and security flaws
 
 Report an issue in the relevant repo out of the GitHub repos listed below. 
 
