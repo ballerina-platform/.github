@@ -1,8 +1,9 @@
 ## Welcome to Ballerina 👋
 
 <h1 align="center">
-  <center><img src="../images/ballerina-logo.png" alt="Ballerina Logo"/></center>
+  <center><img src="https://user-images.githubusercontent.com/16300038/169218464-c62e9011-c142-4db9-9eab-2bfc9a06b7e6.png" alt="Ballerina Logo"/></center>
 </h1>
+
 
 [Ballerina](https://ballerina.io/) is a statically typed, open-source cloud-native programming language developed and supported by [WSO2](https://wso2.com/).
 
