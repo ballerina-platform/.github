@@ -44,7 +44,7 @@ Report an issue in the relevant repo out of the GitHub repos listed below.
 
 ## License
 
-Ballerina code is distributed under [Apache license 2.0](https://github.com/ballerina-platform/ballerina-lang/blob/master/LICENSE).
+Ballerina code is distributed under the [Apache license 2.0](https://github.com/ballerina-platform/ballerina-lang/blob/master/LICENSE).
 
 ## Useful links
 
