@@ -6,7 +6,7 @@
 
 [Ballerina](https://ballerina.io/) is a statically typed, open-source cloud-native programming language developed and supported by [WSO2](https://wso2.com/).
 
-With Ballerina, you could easily develop microservices, API endpoints and integrations,
+With Ballerina, you can easily develop microservices, API endpoints and integrations,
 and any other application for the cloud. Additionally, Ballerina has all the general-purpose
 functionalities you could expect from a modern programming language.
 
