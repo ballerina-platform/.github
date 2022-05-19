@@ -48,7 +48,7 @@ Ballerina code is distributed under the [Apache license 2.0](https://github.com/
 
 ## Useful links
 
-📧 The ballerina-dev@googlegroups.com mailing list is for discussing code changes to the Ballerina project.
+📧 The [Ballerina Dev](https://groups.google.com/g/ballerina-dev) Google group is for technical discussions about Ballerina platform.
 
 ✋ Chat live with us on our [Slack channel](https://ballerina.io/community/slack/) and engage with the [Ballerina community](https://ballerina.io/community/).
 
