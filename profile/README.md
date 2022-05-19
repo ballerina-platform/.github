@@ -16,7 +16,7 @@ Ballerina provides language constructs specifically for consuming and delivering
 
 ## Get started
 
-Here you can find resources to get started with Ballerina. 
+You can use the resources below to get started with Ballerina. 
 
 * [Set up Ballerina and VSCode extension](https://ballerina.io/learn/install-ballerina/set-up-ballerina/)
 * [Learn about the language and the platform](https://ballerina.io/learn/)
