@@ -21,7 +21,7 @@ Here you can find resources to get started with Ballerina.
 * [Set up Ballerina and VSCode extension](https://ballerina.io/learn/install-ballerina/set-up-ballerina/)
 * [Learn about the language and the platform](https://ballerina.io/learn/)
 * [Refer to the Ballerina by Example](https://ballerina.io/learn/by-example/) 
-* [Try in Ballerina Playground](https://play.ballerina.io/)
+* [Try Ballerina in the Playground](https://play.ballerina.io/)
 * [Discover more about Ballerina packages in Ballerina Central](https://central.ballerina.io/)
 
 ## Contribute to Ballerina
