@@ -32,14 +32,10 @@ As an open-source project, Ballerina welcomes contributions from the community. 
 
 ## Report issues and security flaws
 
-Report an issue in the relevant repo out of the GitHub repos listed below. 
 
->**Tip:** If you are unsure whether you have found a bug, search the existing issues in the corresponding repo on 
-> GitHub and raise it in the [Ballerina Slack channel](https://ballerina-platform.slack.com/).
-  - Compiler, runtime, or tooling: <a href="https://github.com/ballerina-platform/ballerina-lang/issues">ballerina-lang</a> repo
-  - Standard library: <a href="https://github.com/ballerina-platform/ballerina-standard-library/issues">ballerina-standard-library</a> repo
-  - Language specification: <a href="https://github.com/ballerina-platform/ballerina-spec/issues">ballerina-spec</a> repo
-  - Website: <a href="https://github.com/ballerina-platform/ballerina-dev-website/issues">ballerina-dev-website</a> repo
+>**Tip:** If you are unsure whether you have found a bug, search the existing issues in the GitHub repo and raise it in the [Ballerina Discord](https://discord.com/invite/wAJYFbMrG2) or [Stack Overflow](https://stackoverflow.com/questions/tagged/ballerina).
+
+  - Language, Tooling, Standard Library, Website: <a href="https://github.com/ballerina-platform/ballerina-lang/issues">ballerina-lang</a> repo
   - Extended library: <a href="https://github.com/ballerina-platform/ballerina-extended-library/issues">ballerina-extended-library</a> repo
   - Security flaw: send an email to security@ballerina.io. For details, see the <a href="https://ballerina.io/security/">security policy</a>.
 
@@ -51,6 +47,6 @@ Ballerina code is distributed under the [Apache license 2.0](https://github.com/
 
 📧 The [Ballerina Dev](https://groups.google.com/g/ballerina-dev) Google group is for technical discussions about Ballerina platform.
 
-✋ Chat live with us on our [Slack channel](https://ballerina.io/community/slack/) and engage with the [Ballerina community](https://ballerina.io/community/).
+✋ Chat live with us on our [Discord community](https://discord.com/invite/wAJYFbMrG2) and engage with the [Ballerina community](https://ballerina.io/community/).
 
 ❓Technical questions should be posted on Stack Overflow with the [ballerina](https://stackoverflow.com/questions/tagged/ballerina) tag.
