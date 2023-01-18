@@ -36,7 +36,7 @@ As an open-source project, Ballerina welcomes contributions from the community. 
 
   - Language, Tooling, Standard Library, Website: <a href="https://github.com/ballerina-platform/ballerina-lang/issues">ballerina-lang</a> repo
   - Extended library: <a href="https://github.com/ballerina-platform/ballerina-extended-library/issues">ballerina-extended-library</a> repo
-  - Security flaw: send an email to security@ballerina.io. For details, see the <a href="https://ballerina.io/security/">security policy</a>.
+  - Security flaw: send an email to security@ballerina.io. For details, see the <a href="https://ballerina.io/security-policy/">security policy</a>.
 
 ## License
 
