@@ -1,7 +1,7 @@
 ## Welcome to Ballerina 👋
 
 <h1 align="center">
-  <center><img src="https://user-images.githubusercontent.com/16300038/169218464-c62e9011-c142-4db9-9eab-2bfc9a06b7e6.png" alt="Ballerina Logo"/></center>
+  <center><img height="100" width="300" src="https://ballerina.io/images/logo/ballerina-logo-grey.svg" alt="Ballerina Logo"/></center>
 </h1>
 
 
