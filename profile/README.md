@@ -5,7 +5,7 @@
 </h1>
 
 
-[Ballerina](https://ballerina.io/) is a statically typed, open-source cloud-native programming language developed and supported by [WSO2](https://wso2.com/).
+[Ballerina](https://ballerina.io/) is an open-source cloud-native programming language optimized for integration. It is developed and supported by [WSO2](https://wso2.com/).
 
 With Ballerina, you can easily develop microservices, API endpoints and integrations,
 and any other application for the cloud. Additionally, Ballerina has all the general-purpose
@@ -19,10 +19,9 @@ Ballerina provides language constructs specifically for consuming and delivering
 
 You can use the resources below to get started with Ballerina. 
 
-* [Set up Ballerina and VSCode extension](https://ballerina.io/learn/install-ballerina/set-up-ballerina/)
+* [Set up Ballerina and VS Code extension](https://ballerina.io/learn/get-started/)
 * [Learn about the language and the platform](https://ballerina.io/learn/)
 * [Refer to the Ballerina by Example](https://ballerina.io/learn/by-example/) 
-* [Try Ballerina in the Playground](https://play.ballerina.io/)
 * [Discover more about Ballerina packages in Ballerina Central](https://central.ballerina.io/)
 
 ## Contribute to Ballerina
@@ -43,8 +42,6 @@ As an open-source project, Ballerina welcomes contributions from the community. 
 Ballerina code is distributed under the [Apache license 2.0](https://github.com/ballerina-platform/ballerina-lang/blob/master/LICENSE).
 
 ## Useful links
-
-📧 The [Ballerina Dev](https://groups.google.com/g/ballerina-dev) Google group is for technical discussions about Ballerina platform.
 
 ✋ Chat live with us on our [Discord community](https://discord.gg/ballerinalang) and engage with the [Ballerina community](https://ballerina.io/community/).
 
