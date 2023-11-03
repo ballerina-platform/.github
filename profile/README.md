@@ -34,7 +34,7 @@ As an open-source project, Ballerina welcomes contributions from the community. 
 >**Tip:** If you are unsure whether you have found a bug, search the existing issues in the GitHub repo and raise it in the [Ballerina Discord](https://discord.gg/ballerinalang) or [Stack Overflow](https://stackoverflow.com/questions/tagged/ballerina).
 
   - Language, Tooling, Website: <a href="https://github.com/ballerina-platform/ballerina-lang/issues">ballerina-lang</a> repo
-  - Ballerina library: <a href="https://github.com/ballerina-platform/ballerina-standard-library/issues">ballerina-lang</a> repo
+  - Ballerina library: <a href="https://github.com/ballerina-platform/ballerina-standard-library/issues">ballerina-library</a> repo
   - Security flaw: send an email to security@ballerina.io. For details, see the <a href="https://ballerina.io/security-policy/">security policy</a>.
 
 ## License
